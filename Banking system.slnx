@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BANK.App Design Patterns/BANK.App Design Patterns.csproj" Id="00c2d846-615a-4493-8ba1-dacc0158ada3" />
+  <Project Path="Bank.Controllers/Bank.Controllers.csproj" Id="da9db70d-3455-49c1-a673-74fbc69b30e1" />
+  <Project Path="Bank.Repos/Bank.Repos.csproj" Id="a8d3dd45-6a3a-4d99-88f5-11ccfe9d4d62" />
+  <Project Path="Bank.Services/Bank.Services.csproj" Id="c52d1a48-56de-4f0b-b14f-ed48dbe7a99d" />
+</Solution>
