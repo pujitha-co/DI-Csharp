@@ -14,7 +14,7 @@ namespace Bank.Repos
         {
             if (Accountnumber == "HDFC123")
             {
-                return "you are having 10000 balance";
+                return "you are having 10000 balance is available";
             }
             else
 
@@ -27,7 +27,7 @@ namespace Bank.Repos
             return $"user deposit the {amount}.success... ";
         }
 
-         
+        
 
         
     }
